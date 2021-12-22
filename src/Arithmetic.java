@@ -16,6 +16,8 @@ public class Arithmetic {
 		
 		System.out.println(" Addition is " + addition);
 		
+		System.out.println(" Subtraction is " + subtraction);
+		
 
 	}
 
