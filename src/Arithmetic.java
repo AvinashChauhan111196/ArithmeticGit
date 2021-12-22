@@ -18,6 +18,9 @@ public class Arithmetic {
 		
 		System.out.println(" Subtraction is " + subtraction);
 		
+		System.out.println(" Multiplication is " + multiplication);
+		
+		
 
 	}
 
