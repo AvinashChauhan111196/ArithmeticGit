@@ -20,6 +20,7 @@ public class Arithmetic {
 		
 		System.out.println(" Multiplication is " + multiplication);
 		
+		System.out.println(" Division is " + division);
 		
 
 	}
